@@ -1,5 +1,5 @@
 # Sparrow's #
-🐶 I'm a Discord server owner, and programmer. I also transcribe sheet music.
+🐶 I'm a Discord server owner, and programmer specializing in Python and Scratch 3.0. I also transcribe sheet music.
 
 _____
 
